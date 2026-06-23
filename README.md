@@ -2,9 +2,9 @@ This not a gouda serious program that procedurally generates whole rounds or wed
 is 343 unique models, potentially all on screen at the same time. 
 
 I made this with Claude 4.8 to test Bevy 0.19 across multiple supported platforms.  The code might have some holes in it.  (the only one I noticed is that
-the swiss hash bubble algorithm has some clones).   As a mutliplatform demo, please forgive the AI.   
+the swiss hash bubble appears to have some clones).   As a mutliplatform demo, please forgive the AI.   
 
 You'll need rust to compile for your platform.  Your cargo.toml file should contain bevy dependency (& no others are needed).
 
-Cheers
+Cheers & welcome to a propionic universe
 -D
